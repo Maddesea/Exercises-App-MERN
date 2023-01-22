@@ -1,0 +1,6 @@
+exercises-backend@1.0.0 C:\Users\Madden\Desktop\Test\Exercises-App-MERN-Full-Stack\exercise-backend
+├── UNMET DEPENDENCY dotenv@^16.0.0
+├── UNMET DEPENDENCY express@^4.17.1
+├── UNMET DEPENDENCY mongoose@^6.3.2
+└── UNMET DEPENDENCY nodemon@^2.0.16
+

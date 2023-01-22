@@ -1,0 +1,14 @@
+exercise-frontend@0.1.0 C:\Users\Madden\Desktop\Test\Exercises-App-MERN-Full-Stack\exercise-frontend
+├── @testing-library/jest-dom@5.16.5
+├── @testing-library/react@11.2.7
+├── @testing-library/user-event@12.8.3
+├── bindings@1.5.0 extraneous
+├── file-uri-to-path@1.0.0 extraneous
+├── nan@2.17.0 extraneous
+├── react-dom@17.0.2
+├── react-icons@4.6.0
+├── react-router-dom@5.3.4
+├── react-scripts@4.0.3
+├── react@17.0.2
+└── web-vitals@1.1.2
+
